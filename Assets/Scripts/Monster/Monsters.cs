@@ -6,8 +6,8 @@ public class Monsters : ScriptableObject
     public string monName;
     public Sprite monSprite;
     public MonStats stats;
-    Move[] moves;
+    public Move[] moves;
 
-    string[] types; 
+    public string[] types; 
 
 }

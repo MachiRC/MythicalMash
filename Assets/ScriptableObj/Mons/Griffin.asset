@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ab04ef48ea9b45f78a9cdefa1cea590, type: 3}
+  m_Name: Griffin
+  m_EditorClassIdentifier: Assembly-CSharp::Monsters
+  monName: Griffin
+  monSprite: {fileID: 8957324059118975939, guid: a91edec9ed0ae4ff498d8454be6498b5, type: 3}
+  stats: {fileID: 11400000, guid: b1a180d8cadf74429a18f439e186bf02, type: 2}
+  moves:
+  - {fileID: 11400000, guid: f14004c85a4b4478ba3d18ccc1fc6e5f, type: 2}
+  types:
+  - Normal
+  - Flying

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "NewScriptableObjectScript", menuName = "Scriptable Objects/NewScriptableObjectScript")]
+[CreateAssetMenu(fileName = "MonStats", menuName = "Scriptable Objects/MonStats")]
 public class MonStats : ScriptableObject
 {
     public float health;

@@ -7,6 +7,7 @@ public class Move : ScriptableObject
     public float power;
     public float points;
     public float accuracy;
+    public string type;
 
     public bool isAttack;
     public bool isPhysical;
